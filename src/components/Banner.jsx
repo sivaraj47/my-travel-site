@@ -19,7 +19,7 @@ function Banner(){
 
             <div className="col-md-5 col-12 text-start">
              <span className="fnt13 mb-5 p-3 shadow-sm">Explore the world!</span>
-             <span className="fnt71 d-block my-4">Travel <span className="fntclr"> top  destination </span>of the world</span>
+             <span className="fnt71 d-block my-4">Travel <span className="fntclr">with Codingwithssr </span> world</span>
              <span className="fntsub">Where adventure meets comfort. We create unforgettable travel experiences</span>
              <div className="row mt-3">
              <button className="getstartedbtn">Get Started</button>

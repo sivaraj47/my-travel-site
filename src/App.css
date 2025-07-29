@@ -163,7 +163,9 @@ color:#191825;
   .tophotel{
     right: -20px;
     top: 190px;
-  }
+  }.fnt71 {
+    color: #000;
+    font-size: 31px;
 }
 
 @media screen and (max-width:768px) {

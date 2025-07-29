@@ -150,12 +150,16 @@ color:#191825;
   and (-webkit-min-device-pixel-ratio: 2) {
 
   .travlimg {
-    height: 383px;
-    margin-top: -405px;
-    object-fit: contain;
-    position: relative;
-    width: 322px;
+   height: 283px;
+        margin-top: -305px;
+        object-fit: contain;
+        position: relative;
+        width: 322px;
   }
+  .toplace {
+    left: 0px;
+    top: 190px;
+}
 }
 
 @media screen and (max-width:768px) {

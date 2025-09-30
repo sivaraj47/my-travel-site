@@ -137,13 +137,13 @@ color:#191825;
     position:absolute;
 }
 .travlimg {
-   position: relative;
-    width: 422px;
     height: 483px;
     object-fit: contain;
-    margin-top: -505px;
+    position: absolute;
+    width: 322px;
+    left: 110px;
+    top: -68px;
 }
-
 @media screen and (max-width:768px) {
   .fnt71{
     font-size: 40px;
@@ -161,15 +161,15 @@ color:#191825;
   .nav-link{
     font-size:14px;
   }
- 
-.travlimg {
-    height: 483px;
-    object-fit: contain;
-    position: absolute;
-    width: 322px;
-    left: 110px;
-    top: -68px;
-}
+ .travlimg {
+    height: 283px;
+        object-fit: contain;
+        position: absolute;
+        width: 238px;
+        left: 60px;
+        top: -45px;   
+    }
+
 .banner-text {
    margin-top:130px;
 }
@@ -209,14 +209,7 @@ color:#191825;
   and (orientation: portrait) 
   and (-webkit-min-device-pixel-ratio: 2) {
 
-  .travlimg {
-    height: 283px;
-        object-fit: contain;
-        position: absolute;
-        width: 238px;
-        left: 60px;
-        top: -45px;   
-    }
+  
   .toplace {
     left: 0px;
     top: 190px;

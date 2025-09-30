@@ -27,7 +27,7 @@ function Banner(){
              </div>
             </div>
         
-            <div className="col-md-7 col-12 mt-5 mt-md-0">
+            <div className="col-md-7 col-12 mt-5 mt-md-0 position-relative">
                 <img src="https://i.postimg.cc/SNw8yFC1/Group-1000001855.png" className="img-fluid"/>
                      <button className="toplace">
                         <svg width="18" height="20" class="m-1" viewBox="0 0 18 20" fill="none" xmlns="http://www.w3.org/2000/svg">

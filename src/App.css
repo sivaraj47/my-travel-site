@@ -137,12 +137,12 @@ color:#191825;
     position:absolute;
 }
 .travlimg {
-    height: 483px;
-    object-fit: contain;
-    position: absolute;
-    width: 322px;
-    left: 110px;
-    top: -68px;
+    height: -webkit-fill-available;
+  object-fit: contain;
+    position: absolute !important;
+    left: 0px;
+    top: 0px;
+    width: -webkit-fill-available;
 }
 @media screen and (max-width:768px) {
   .fnt71{

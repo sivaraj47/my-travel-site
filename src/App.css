@@ -161,14 +161,15 @@ color:#191825;
   .nav-link{
     font-size:14px;
   }
-  .travlimg {
-    position: relative;
-    width: 238px;
-    height: 283px;
+ 
+.travlimg {
+    height: 483px;
     object-fit: contain;
-    margin-top: -311px;
-    }
-
+    position: absolute;
+    width: 322px;
+    left: 110px;
+    top: -68px;
+}
 .banner-text {
    margin-top:130px;
 }
@@ -209,12 +210,13 @@ color:#191825;
   and (-webkit-min-device-pixel-ratio: 2) {
 
   .travlimg {
-   height: 283px;
-        margin-top: -305px;
+    height: 283px;
         object-fit: contain;
-        position: relative;
-        width: 322px;
-  }
+        position: absolute;
+        width: 238px;
+        left: 60px;
+        top: -45px;   
+    }
   .toplace {
     left: 0px;
     top: 190px;

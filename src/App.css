@@ -203,22 +203,3 @@ color:#191825;
     margin-left: 10px;
 }
 }
-@media only screen 
-  and (min-device-width: 768px) 
-  and (max-device-width: 834px) 
-  and (orientation: portrait) 
-  and (-webkit-min-device-pixel-ratio: 2) {
-
-  
-  .toplace {
-    left: 0px;
-    top: 190px;
-}
-  .tophotel{
-    right: -20px;
-    top: 190px;
-  }.fnt71 {
-    color: #000;
-    font-size: 31px;
-}
-}
